@@ -1,0 +1,2 @@
+# Advanced-Machine-Learning-Theory
+This is a project on the article "Improved Nyström low-rank approximation and error analysis" by authors Kai Zhang,  Ivor W. Tsang,  James T. Kwok (https://doi.org/10.1145/  1390156.1390311) which was a part of the course Advanced Machine Learning theory in the second semester of 2022 in the Advanced Mathematics M2 program at ENS de Lyon. The project was done in collaboration with Sofiya Burova.
